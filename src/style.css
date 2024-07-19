@@ -11,4 +11,5 @@ p {
     font-size: 20px;
     color: gray;
     background-color: yellow;
+    border: 1px solid black;
 }
